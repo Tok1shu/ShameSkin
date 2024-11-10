@@ -1,0 +1,36 @@
+# ShameSkin plugin configuration
+skins:
+  - "https://s.namemc.com/i/5281fcdf1e63a7e4.png"
+  - "https://s.namemc.com/i/b02e8813da664507.png"
+  - "https://s.namemc.com/i/e5c3f9a8368131bb.png"
+
+# Message settings
+# DO NOT TRANSLATE [player], [time] and [reason] to other languages!!!
+messages:
+  appliedSkinMessage: "§c[player] has been condemned to wear the shame skin for [time]\n§cReason: [reason]"
+  skinCommandBlocked: "§cYou cannot change your skin while the punishment is active."
+  kickMessage: "§cPlease rejoin the server :3"
+  playerOnly: "This command can only be executed by a player."
+  noPermission: "§cYou do not have permission to execute this command."
+  playerNotFound: "§cPlayer not found."
+  invalidTimeFormat: "§cInvalid time format. Use: 1d, 1m, 2w, 1y or forever"
+  usage: "§cUsage: /shameskin [player] [time] <reason>"
+  noReason: "Reason not specified"
+  configReloaded: "§aConfiguration reloaded successfully!"
+  specifyPlayer: "§cPlease specify a player name!"
+  playerNotPunished: "§cPlayer [player] is not currently punished"
+  punishmentRemoved: "§a[player]'s skin punishment has been removed"
+  punishmentRemovedNotify: "§aYour skin punishment has been removed"
+  punishmentExpired: "§aYour original skin has been restored as the punishment period has expired"
+time:
+  minutes: "min."
+  hours: "hour(s)"
+  days: "day(s)"
+  weeks: "week(s)"
+  years: "year(s)"
+  forever: "forever"
+
+# Should the player be kicked when a punishment is applied
+kickOnPunishment: false
+# Use legacy skin change method (LuckPerms-based) (workaround)
+useLegacySkinChange: false

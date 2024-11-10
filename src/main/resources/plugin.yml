@@ -1,0 +1,20 @@
+name: ShameSkin
+version: '1.0'
+main: net.tokishu.ShameSkin
+api-version: '1.20'
+depend: [LuckPerms, SkinsRestorer]
+commands:
+  shameskin:
+    description: Apply a punishment skin to a player
+    usage: /shameskin [player] [time] [reason]
+    permission: shameskin.mod
+permissions:
+  shameskin.mod:
+    description: Allows using the shameskin command
+    default: op
+  shameskin.remove:
+    description: Removing a player from the list of shame
+    default: op
+  shameskin.reload:
+    description: :P
+    default: op
