@@ -60,6 +60,17 @@ In `config.yml`, you can set up the list of punishment skins, message formats, t
 
 If the SkinsRestorer API is unavailable, the plugin will automatically switch to an alternative skin change method to ensure that punishments are still enforced.
 
+## Support and Contact
+
+If you’d like to support the author for creating **ShameSkin**, you can do so via donation:
+
+[![](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](https://www.paypal.com/donate/?hosted_button_id=4HLK2VRT6PF8A)
+
+For questions or suggestions, feel free to reach out to the author at:
+
+[![](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/TodNacht)
+or Discord: @tokishu
+
 ---
 
 With **ShameSkin**, you can maintain order on your server with a playful but effective form of punishment, helping to improve player behavior!
