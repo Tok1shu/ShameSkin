@@ -69,7 +69,7 @@ If you’d like to support the author for creating **ShameSkin**, you can do so 
 For questions or suggestions, feel free to reach out to the author at:
 
 [![](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/TodNacht)
-or Discord: @tokishu
+or Discord: https://discord.gg/9pmuqRSpFs
 
 ---
 
